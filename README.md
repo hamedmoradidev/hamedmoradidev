@@ -1,5 +1,8 @@
  ### <div align="center">I'm Hamed, a passionate front-end developer 👨‍💻 officially since 2024 🚀</div>  
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamedmoradidev)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>  
 
 - 🔭 My latest project is here [xfactory theme](https://github.com/hamedmoradidev/XFACTORY)  
   
